@@ -22,3 +22,5 @@ Rythm is a Discord music bot focused on one goal: **to deliver the best music ex
 
 # Why wait?
 You can invite Rythm to your server with just a few clicks to liven your time on Discord up; it's that simple! Instructions on how to invite Rythm can be found in the [Adding Rythm](/adding_rythm) section.
+!p
+manin music
